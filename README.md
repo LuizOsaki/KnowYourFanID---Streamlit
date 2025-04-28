@@ -25,4 +25,3 @@ http://localhost:8501/
 - Upload e validação de documentos
 - Validação de perfis de eSports
 - Dashboard de dados
-
